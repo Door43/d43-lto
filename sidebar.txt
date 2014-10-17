@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lto:home|Door43 (lto)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lto|d43-lto repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lto/archive/master.zip|d43-lto.zip]]
+
+**Recent Changes**
+{{changes>ns = lto}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lto|Ethnologue data]]
+
